@@ -1,0 +1,14 @@
+div {
+  height: 700px;
+  width: 500px;
+  background-image: repeating-radial-gradient(
+    circle at center,
+    red 15%,
+    green 25%
+  );
+  padding: 50%;
+  font-variant: small-caps;
+  font-size: 10vw;
+  color: white;
+  text-align: center;
+}
